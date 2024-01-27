@@ -1,7 +1,7 @@
 import Image from 'next/image'
 import google from '@/assets/google.png'
-import notion from '@/assets/Notion.png'
-import slack from '@/assets/Slack.png'
+import notion from '@/assets/notion.png'
+import slack from '@/assets/slack.png'
 import monday from '@/assets/monday.png'
 import trello from '@/assets/trello.png'
 
